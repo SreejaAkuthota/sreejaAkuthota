@@ -37,13 +37,9 @@
 ---
 
 ## 🚀 Featured Projects
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=850&lines=AI+Resume+%26+Cover+Letter+Generator+%F0%9F%93%9D%E2%9A%A1;Gen+AI+PDF+Q%26A+Chatbot+%F0%9F%93%96%E2%80%8D%F0%9F%92%BB;AI+Review+Sentiment+Dashboard+%F0%9F%8E%89%2F%F0%9F%93%8A;NLP+%7C+RAG+%7C+LLM+Apps+in+Production" />
-</p>
-
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF8FAB&center=true&vCenter=true&width=900&lines=AI+Resume+%26+Cover+Letter+Generator+%F0%9F%93%9D%E2%9A%A1;Gen+AI+PDF+Q%26A+Chatbot+%F0%9F%93%96%E2%80%8D%F0%9F%92%BB;AI+Review+Sentiment+Dashboard+%F0%9F%8E%89%2F%F0%9F%93%8A;NLP+%7C+RAG+%7C+LLM+Apps+in+Production" alt="animated headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF8FAB&center=true&vCenter=true&width=900&lines=AI+Resume+%26+Cover+Letter+Generator;Gen+AI+PDF+Q%26A+Chatbot;AI+Review+Sentiment+Dashboard;NLP+%7C+RAG+%7C+LLM+Apps+in+Production" alt="animated headline" />
 </p>
 
 <style>
