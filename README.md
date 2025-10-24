@@ -1,8 +1,6 @@
 <h1 align="center">✨ AI Engineer Portfolio — Sreeja Akuthota ✨</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=850&lines=AI+Resume+%26+Cover+Letter+Generator+%F0%9F%93%9D%E2%9A%A1;Gen+AI+PDF+Q%26A+Chatbot+%F0%9F%93%96%E2%80%8D%F0%9F%92%BB;AI+Review+Sentiment+Dashboard+%F0%9F%8E%89%2F%F0%9F%93%8A;NLP+%7C+RAG+%7C+LLM+Apps+in+Production" />
-</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=1000&lines=AI+Engineer+%E2%80%A2+GenAI+Engineer+%E2%80%A2+ML+Engineer;RAG+Developer+%E2%80%A2+AI+Agent+Developer+%E2%80%A2+Prompt+Engineer;MS+Data+Science+%7C+Building+useful+AI;Turning+data+into+decisions+%26+products" alt="typing headline"/>
 </p>
@@ -35,6 +33,20 @@
 ---
 
 ## 🚀 Featured Projects
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=850&lines=AI+Resume+%26+Cover+Letter+Generator+%F0%9F%93%9D%E2%9A%A1;Gen+AI+PDF+Q%26A+Chatbot+%F0%9F%93%96%E2%80%8D%F0%9F%92%BB;AI+Review+Sentiment+Dashboard+%F0%9F%8E%89%2F%F0%9F%93%8A;NLP+%7C+RAG+%7C+LLM+Apps+in+Production" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&center=true&vCenter=true&width=900&color=F97316&lines=AI+Resume+%26+Cover+Letter+Generator+%F0%9F%93%9D%E2%9A%A1" alt="AI Resume & Cover Letter Generator"/>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&center=true&vCenter=true&width=900&color=10B981&lines=Gen+AI+PDF+Q%26A+Chatbot+%F0%9F%93%96%E2%80%8D%F0%9F%92%BB" alt="Gen AI PDF Q&A Chatbot"/>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&center=true&vCenter=true&width=900&color=8B5CF6&lines=AI+Review+Sentiment+Dashboard+%F0%9F%8E%89%2F%F0%9F%93%8A" alt="AI Review Sentiment Dashboard"/>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&center=true&vCenter=true&width=900&color=F59E0B&lines=NLP+%7C+RAG+%7C+LLM+Apps+in+Production" alt="Stack"/>
+</p>
+
 
 <details open>
 <summary><strong>Project 1 — AI Resume & Cover Letter Generator</strong> · <em>NLP</em></summary>
