@@ -6,9 +6,8 @@
   ✨ <span style="color:#FF8FAB; text-shadow: 0 0 10px #ff8fabaa, 0 0 20px #ffb6c1;">Sreeja Akuthota</span> ✨
 </h1>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF8FAB&center=true&vCenter=true&width=1050&lines=AI+Engineer+%E2%80%A2+GenAI+Engineer+%E2%80%A2+ML+Engineer;RAG+Developer+%E2%80%A2+AI+Agent+Developer+%E2%80%A2+Prompt+Engineer;MS+Data+Science+%7C+Building+useful+AI;Turning+data+into+decisions+%26+products" alt="typing headline"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF8FAB&center=true&vCenter=true&width=1050&lines=AI+Engineer+%E2%80%A2+GenAI+Engineer+%E2%80%A2+ML+Engineer;RAG+Developer+%E2%80%A2+AI+Agent+Developer+%E2%80%A2+Prompt+Engineer;MS+Business+Analytics+%7C+Building+useful+AI;Turning+data+into+decisions+%26+products" alt="typing headline"/>
 </p>
 
 <p align="center">
