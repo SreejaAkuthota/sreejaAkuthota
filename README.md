@@ -99,7 +99,7 @@ streamlit run apps/pdf_chat.py
 **Stack:** Python · Pandas · scikit-learn/HF · Streamlit · Plotly · Power BI/Tableau (optional)
 
 <p align="center">
-  <img src="GenAI_pdf_reader.png" alt="Sentiment dashboard" width="72%" style="border-radius:12px"/>
+  <img src="Aireview.png" alt="Sentiment dashboard" width="72%" style="border-radius:12px"/>
   <br/><img src="pulse.gif" width="180" alt="pulse"/>
 </p>
 
@@ -125,12 +125,12 @@ streamlit run apps/sentiment_dashboard.py
 
 ---
 
-## ✨ Demos (Add your GIFs)
-Put short demos in `assets/` and reference them here.
+## ✨ Demos
+Put short demos them here.
 <p align="center">
-  <img src="assets/demo_resume.gif" alt="Resume Generator Demo" width="85%"><br/>
-  <img src="assets/demo_pdfqa.gif" alt="PDF Q&A Demo" width="85%"><br/>
-  <img src="assets/demo_sentiment.gif" alt="Sentiment Dashboard Demo" width="85%">
+  <img src="dashboard.png" alt="Resume Generator Demo" width="85%"><br/>
+  <img src="GenAI_pdf_reader.png" alt="PDF Q&A Demo" width="85%"><br/>
+  <img src="Aireview.png" alt="Sentiment Dashboard Demo" width="85%">
 </p>
 
 ---
