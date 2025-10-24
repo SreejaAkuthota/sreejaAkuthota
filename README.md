@@ -19,6 +19,16 @@
 </style>
 
 
+<!-- 🌸 Motion Header (GitHub-safe version) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8FAB,100:FFC0CB&height=140&section=header&text=&fontSize=0&animation=twinkling&reversal=true" width="100%" alt="wave"/>
+</p>
+
+<h1 align="center">
+  ✨ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF8FAB&center=true&vCenter=true&width=650&lines=Sreeja+Akuthota;AI+Engineer+%7C+GenAI+Developer+%7C+ML+Engineer;Building+Useful+AI+%26+Data-Driven+Solutions" alt="typing headline"/> ✨
+</h1>
+
+
 
 
 
