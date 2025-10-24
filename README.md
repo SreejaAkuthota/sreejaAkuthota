@@ -2,9 +2,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8FAB,100:FFC0CB&height=140&section=header&text=&fontSize=0&animation=twinkling&reversal=true" width="100%" alt="wave"/>
 </p>
-
 <h1 align="center">
-  ✨ <span style="color:#FF8FAB; text-shadow: 0 0 10px #ff8fabaa, 0 0 20px #ffb6c1;">Sreeja Akuthota</span> ✨
+  ✨ <span style="color:#FF8FAB; text-shadow: 0 0 10px #ff8fabaa, 0 0 10px #ffb6c1;">Sreeja Akuthota</span> ✨
 </h1>
 
 
