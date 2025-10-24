@@ -1,3 +1,27 @@
+<!-- 🌸 Elegant Motion Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8FAB,100:FFC0CB&height=140&section=header&text=&fontSize=0&animation=twinkling&reversal=true" width="100%" alt="wave"/>
+</p>
+
+<h1 align="center">
+  ✨ <span style="color:#FF8FAB; text-shadow: 0 0 10px #ff8fabaa, 0 0 20px #ffb6c1;">Sreeja Akuthota</span> ✨
+</h1>
+
+<style>
+  h1 span {
+    animation: glowPulse 2.5s infinite ease-in-out;
+  }
+  @keyframes glowPulse {
+    0% { text-shadow: 0 0 5px #ff8fab88, 0 0 10px #ffb6c1; }
+    50% { text-shadow: 0 0 15px #ff8fab, 0 0 30px #ffb6c1; }
+    100% { text-shadow: 0 0 5px #ff8fab88, 0 0 10px #ffb6c1; }
+  }
+</style>
+
+
+
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:6A5ACD,100:00BFFF&height=120&section=header&text=&fontSize=0&animation=blink&reversal=true" width="100%" alt="wave"/>
 </p>
