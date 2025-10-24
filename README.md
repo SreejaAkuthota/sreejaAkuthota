@@ -48,23 +48,6 @@
 - Guardrails & prompt-chains for tone, length, and ATS keyword coverage.
 - Export to PDF/Markdown; reusable prompt presets per role.
 
-```mermaid
-flowchart LR
-  A[Job Description] -->|Extract| B[Keyword + Role Signals]
-  B --> C[Prompt Templates]
-  C --> D[LLM Inference (OpenAI/HF)]
-  D --> E[Resume Bullets + Cover Letter]
-  E --> F[Streamlit UI • Download]
-```
-
-**Run locally**
-```bash
-pip install -r requirements.txt
-streamlit run apps/resume_app.py
-```
-</details>
-
----
 
 <details open>
 <summary><strong>Project 2 — Gen AI PDF Q&A Chatbot</strong> · <em>RAG / LangChain</em></summary>
