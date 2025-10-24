@@ -43,6 +43,11 @@
 **Key Skills:** Prompt engineering, LLM text generation  
 **Stack:** Python · Streamlit · FastAPI (optional API) · OpenAI/HF Inference API · Prompt Templates
 
+<p align="center">
+  <img src="assets/dashboard.png" alt="AI resume generator" width="72%" style="border-radius:12px"/>
+  <br/><img src="assets/pulse.gif" width="180" alt="pulse"/>
+</p>
+
 **Highlights**
 - One-click generation of tailored resume bullets and cover letters from a job description.
 - Guardrails & prompt-chains for tone, length, and ATS keyword coverage.
@@ -55,6 +60,11 @@
 **Live:** <a href="https://huggingface.co/spaces/Sreeja007/genai-pdf-qa-chatbot-groq">Hugging Face Spaces</a>  
 **Key Skills:** Embeddings, vector database, retrieval  
 **Stack:** Python · LangChain · FAISS/Chroma · Hugging Face · Streamlit/Gradio
+
+<p align="center">
+  <img src="assets/PDFChatbot.png" alt="PDF Q&A" width="72%" style="border-radius:12px"/>
+  <br/><img src="assets/pulse.gif" width="180" alt="pulse"/>
+</p>
 
 **Highlights**
 - Drop PDFs and chat with them using contextual retrieval.
@@ -90,6 +100,11 @@ streamlit run apps/pdf_chat.py
 **Live:** <a href="https://ai-review-sentiment-dashboard.streamlit.app/">Streamlit Cloud (replace link)</a>  
 **Key Skills:** NLP analysis, data visualization  
 **Stack:** Python · Pandas · scikit-learn/HF · Streamlit · Plotly · Power BI/Tableau (optional)
+
+<p align="center">
+  <img src="assets/GenAI_pdf_reader.png" alt="Sentiment dashboard" width="72%" style="border-radius:12px"/>
+  <br/><img src="assets/pulse.gif" width="180" alt="pulse"/>
+</p>
 
 **Highlights**
 - Ingest CSV/JSON reviews; classify sentiment and key themes.
@@ -209,4 +224,16 @@ tabulate
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreejaAkuthota&layout=compact" />
 </p>
 
+## 🏆 Activity & Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SreejaAkuthota&show_icons=true&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreejaAkuthota&layout=compact&theme=radical&hide_border=true" height="160" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=SreejaAkuthota&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SreejaAkuthota&theme=dracula&no-frame=true&margin-w=12&row=1" />
+</p>
 
