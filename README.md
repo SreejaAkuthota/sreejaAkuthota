@@ -3,6 +3,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=850&lines=AI+Resume+%26+Cover+Letter+Generator+%F0%9F%93%9D%E2%9A%A1;Gen+AI+PDF+Q%26A+Chatbot+%F0%9F%93%96%E2%80%8D%F0%9F%92%BB;AI+Review+Sentiment+Dashboard+%F0%9F%8E%89%2F%F0%9F%93%8A;NLP+%7C+RAG+%7C+LLM+Apps+in+Production" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=1000&lines=AI+Engineer+%E2%80%A2+GenAI+Engineer+%E2%80%A2+ML+Engineer;RAG+Developer+%E2%80%A2+AI+Agent+Developer+%E2%80%A2+Prompt+Engineer;MS+Data+Science+%7C+Building+useful+AI;Turning+data+into+decisions+%26+products" alt="typing headline"/>
+</p>
 
 <p align="center">
   <a href="mailto:sreejaakuthota07@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail"></a>
