@@ -202,11 +202,11 @@ tabulate
 
 ---
 
-## 📈 Optional Profile Widgets (replace YOUR_GITHUB_USERNAME)
+## 📈 Profile Widgets 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide=prs,issues" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SreejaAkuthota&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SreejaAkuthota&show_icons=true&hide=prs,issues" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreejaAkuthota&layout=compact" />
 </p>
 
 
