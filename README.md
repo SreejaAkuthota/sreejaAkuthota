@@ -1,6 +1,3 @@
-
-
-
 <h1 align="center">✨ AI Engineer Portfolio — Sreeja Akuthota ✨</h1>
 
 <p align="center">
@@ -44,8 +41,8 @@
 **Stack:** Python · Streamlit · FastAPI (optional API) · OpenAI/HF Inference API · Prompt Templates
 
 <p align="center">
-  <img src="assets/dashboard.png" alt="AI resume generator" width="72%" style="border-radius:12px"/>
-  <br/><img src="assets/pulse.gif" width="180" alt="pulse"/>
+  <img src="dashboard.png" alt="AI resume generator" width="72%" style="border-radius:12px"/>
+  <br/><img src="pulse.gif" width="180" alt="pulse"/>
 </p>
 
 **Highlights**
@@ -62,8 +59,8 @@
 **Stack:** Python · LangChain · FAISS/Chroma · Hugging Face · Streamlit/Gradio
 
 <p align="center">
-  <img src="assets/PDFChatbot.png" alt="PDF Q&A" width="72%" style="border-radius:12px"/>
-  <br/><img src="assets/pulse.gif" width="180" alt="pulse"/>
+  <img src="PDFChatbot.png" alt="PDF Q&A" width="72%" style="border-radius:12px"/>
+  <br/><img src="pulse.gif" width="180" alt="pulse"/>
 </p>
 
 **Highlights**
@@ -102,8 +99,8 @@ streamlit run apps/pdf_chat.py
 **Stack:** Python · Pandas · scikit-learn/HF · Streamlit · Plotly · Power BI/Tableau (optional)
 
 <p align="center">
-  <img src="assets/GenAI_pdf_reader.png" alt="Sentiment dashboard" width="72%" style="border-radius:12px"/>
-  <br/><img src="assets/pulse.gif" width="180" alt="pulse"/>
+  <img src="GenAI_pdf_reader.png" alt="Sentiment dashboard" width="72%" style="border-radius:12px"/>
+  <br/><img src="pulse.gif" width="180" alt="pulse"/>
 </p>
 
 **Highlights**
@@ -217,12 +214,6 @@ tabulate
 
 ---
 
-## 📈 Profile Widgets 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SreejaAkuthota&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SreejaAkuthota&show_icons=true&hide=prs,issues" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreejaAkuthota&layout=compact" />
-</p>
 
 ## 🏆 Activity & Stats
 <p align="center">
