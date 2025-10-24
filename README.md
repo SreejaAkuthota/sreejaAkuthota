@@ -177,29 +177,6 @@ export OPENAI_API_KEY=...         # or HUGGINGFACEHUB_API_TOKEN=...
 export LANGCHAIN_TRACING_V2=true  # if you want observability
 ```
 
-**requirements.txt (suggested)**
-```
-streamlit
-fastapi
-uvicorn
-langchain
-faiss-cpu
-chromadb
-pydantic
-python-dotenv
-pandas
-numpy
-scikit-learn
-matplotlib
-plotly
-transformers
-torch
-sentence-transformers
-tabulate
-```
-
----
-
 ## 🧪 Test & Quality
 - Unit tests for chunking, retrieval, and prompt templates.
 - Smoke tests for APIs (`uvicorn apps:app --reload`).
