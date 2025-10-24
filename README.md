@@ -7,16 +7,6 @@
   ✨ <span style="color:#FF8FAB; text-shadow: 0 0 10px #ff8fabaa, 0 0 20px #ffb6c1;">Sreeja Akuthota</span> ✨
 </h1>
 
-<style>
-  h1 span {
-    animation: glowPulse 2.5s infinite ease-in-out;
-  }
-  @keyframes glowPulse {
-    0% { text-shadow: 0 0 5px #ff8fab88, 0 0 10px #ffb6c1; }
-    50% { text-shadow: 0 0 15px #ff8fab, 0 0 30px #ffb6c1; }
-    100% { text-shadow: 0 0 5px #ff8fab88, 0 0 10px #ffb6c1; }
-  }
-</style>
 
 
 <!-- 🌸 Motion Header (GitHub-safe version) -->
@@ -25,7 +15,7 @@
 </p>
 
 <h1 align="center">
-  ✨ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF8FAB&center=true&vCenter=true&width=650&lines=Sreeja+Akuthota;AI+Engineer+%7C+GenAI+Developer+%7C+ML+Engineer;Building+Useful+AI+%26+Data-Driven+Solutions" alt="typing headline"/> ✨
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF8FAB&center=true&vCenter=true&width=650&lines=✨Sreeja+Akuthota✨;" alt="typing headline"/> 
 </h1>
 
 
