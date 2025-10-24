@@ -43,18 +43,14 @@
 
 
 <p align="center">
-  <picture>
-    <!-- Dark mode: bright pink on deep plum -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=900&duration=2000&center=true&vCenter=true&repeat=true&width=900&color=FF8FC7&background=1A0B14&lines=AI+Resume+%26+Cover+Letter+Generator+%F0%9F%93%9D%E2%9A%A1;Gen+AI+PDF+Q%26A+Chatbot+%F0%9F%93%96%E2%80%8D%F0%9F%92%BB;AI+Review+Sentiment+Dashboard+%F0%9F%8E%89%2F%F0%9F%93%8A;NLP+%7C+RAG+%7C+LLM+Apps+in+Production">
-    <!-- Light mode: muted rose on blush background -->
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=900&duration=2000&center=true&vCenter=true&repeat=true&width=900&color=BE185D&background=FDE7F3&lines=AI+Resume+%26+Cover+Letter+Generator+%F0%9F%93%9D%E2%9A%A1;Gen+AI+PDF+Q%26A+Chatbot+%F0%9F%93%96%E2%80%8D%F0%9F%92%BB;AI+Review+Sentiment+Dashboard+%F0%9F%8E%89%2F%F0%9F%93%8A;NLP+%7C+RAG+%7C+LLM+Apps+in+Production" alt="typing headline">
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF8FAB&center=true&vCenter=true&width=900&lines=AI+Resume+%26+Cover+Letter+Generator+%F0%9F%93%9D%E2%9A%A1;Gen+AI+PDF+Q%26A+Chatbot+%F0%9F%93%96%E2%80%8D%F0%9F%92%BB;AI+Review+Sentiment+Dashboard+%F0%9F%8E%89%2F%F0%9F%93%8A;NLP+%7C+RAG+%7C+LLM+Apps+in+Production" alt="animated headline" />
 </p>
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=900&duration=2000&center=true&vCenter=true&repeat=true&width=900&color=DB2777&background=FDE7F3&lines=AI+Resume+%26+Cover+Letter+Generator+%F0%9F%93%9D%E2%9A%A1;Gen+AI+PDF+Q%26A+Chatbot+%F0%9F%93%96%E2%80%8D%F0%9F%92%BB;AI+Review+Sentiment+Dashboard+%F0%9F%8E%89%2F%F0%9F%93%8A;NLP+%7C+RAG+%7C+LLM+Apps+in+Production" alt="typing headline"/>
-</p>
+<style>
+  img[src*="readme-typing-svg"] {
+    filter: drop-shadow(0 0 8px #ff8fabaa);
+  }
+</style>
 
 
 
