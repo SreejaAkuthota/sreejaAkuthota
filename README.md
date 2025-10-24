@@ -9,18 +9,6 @@
 
 
 
-<!-- 🌸 Motion Header (GitHub-safe version) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8FAB,100:FFC0CB&height=140&section=header&text=&fontSize=0&animation=twinkling&reversal=true" width="100%" alt="wave"/>
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF8FAB&center=true&vCenter=true&width=650&lines=✨Sreeja+Akuthota✨;" alt="typing headline"/> 
-</h1>
-
-
-
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:6A5ACD,100:00BFFF&height=120&section=header&text=&fontSize=0&animation=blink&reversal=true" width="100%" alt="wave"/>
