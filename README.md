@@ -44,15 +44,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF8FAB&center=true&vCenter=true&width=900&lines=AI+Resume+%26+Cover+Letter+Generator;Gen+AI+PDF+Q%26A+Chatbot;AI+Review+Sentiment+Dashboard;NLP+%7C+RAG+%7C+LLM+Apps+in+Production" alt="animated headline" />
 </p>
 
-<style>
-  img[src*="readme-typing-svg"] {
-    filter: drop-shadow(0 0 8px #ff8fabaa);
-  }
-</style>
-
-
-
-
 <details open>
 <summary><strong>Project 1 — AI Resume & Cover Letter Generator</strong> · <em>NLP</em></summary>
 
