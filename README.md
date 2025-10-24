@@ -148,10 +148,10 @@ Put short demos them here.
 
 ## 👩🏽‍💻 About Me
 AI Engineer with 5+ years building ML/NLP products end‑to‑end—data → models → cloud deployment → dashboards. Experience spans healthcare and insurance, productionizing models on AWS SageMaker, Azure ML, and Vertex AI; building RAG workflows; and shipping BI dashboards that drive decisions. Highlights:
-- +22% NLP accuracy with HF Transformers on SageMaker.
-- −20% inference latency via Dockerized PyTorch + FastAPI.
-- −35% manual reporting with automated BI + anomaly detection.
-- +40% dataset accuracy through ML‑validated SQL pipelines.
+- 22% NLP accuracy with HF Transformers on SageMaker.
+- 20% inference latency via Dockerized PyTorch + FastAPI.
+- 35% manual reporting with automated BI + anomaly detection.
+- 40% dataset accuracy through ML‑validated SQL pipelines.
 
 > Email: <a href="mailto:sreejaakuthota07@gmail.com">sreejaakuthota07@gmail.com</a> · 
 > LinkedIn: <a href="https://www.linkedin.com/in/sreeja-akuthota/">sreeja-akuthota</a>
