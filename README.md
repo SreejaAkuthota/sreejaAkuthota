@@ -59,7 +59,7 @@
 **Stack:** Python · LangChain · FAISS/Chroma · Hugging Face · Streamlit/Gradio
 
 <p align="center">
-  <img src="PDFChatbot.png" alt="PDF Q&A" width="72%" style="border-radius:12px"/>
+  <img src="GenAI_pdf_reader.png" alt="PDF Q&A" width="72%" style="border-radius:12px"/>
   <br/><img src="pulse.gif" width="180" alt="pulse"/>
 </p>
 
