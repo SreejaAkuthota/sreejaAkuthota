@@ -67,12 +67,12 @@ Senior Analytics Engineer with **5+ years of experience** specializing in cloud-
 
 ### 🏆 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SreejaAkuthota&show_icons=true&theme=transparent&hide_border=true&title_color=86f2ff&text_color=ffffff&icon_color=a084ff" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreejaAkuthota&layout=compact&theme=transparent&hide_border=true&title_color=86f2ff&text_color=ffffff" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SreejaAkuthota&show_icons=true&theme=radical&hide_border=true" height="150" alt="Sreeja's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreejaAkuthota&layout=compact&theme=radical&hide_border=true" height="150" alt="Sreeja's Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SreejaAkuthota&theme=dracula&no-frame=true&margin-w=15" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SreejaAkuthota&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
