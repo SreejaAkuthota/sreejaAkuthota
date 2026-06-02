@@ -1,217 +1,116 @@
-<!-- 🌸 Elegant Motion Header -->
+<!-- 🌊 Professional Data Motion Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8FAB,100:FFC0CB&height=140&section=header&text=&fontSize=0&animation=twinkling&reversal=true" width="100%" alt="wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070d,100:86f2ff&height=140&section=header&text=Senior%20Analytics%20Engineer&fontSize=40&animation=twinkling&fontColor=ffffff" width="100%" alt="wave"/>
 </p>
+
 <h1 align="center">
-  ✨ <span style="color:#FF8FAB; text-shadow: 0 0 10px #ff8fabaa, 0 0 20px #ffb6c1;">Sreeja Akuthota</span> ✨
+  ✨ <span style="color:#86f2ff; text-shadow: 0 0 10px #86f2ffaa, 0 0 20px #a084ff;">Sreeja Akuthota</span> ✨
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF8FAB&center=true&vCenter=true&width=1050&lines=AI+Engineer+%E2%80%A2+GenAI+Engineer+%E2%80%A2+ML+Engineer;RAG+Developer+%E2%80%A2+AI+Agent+Developer+%E2%80%A2+Prompt+Engineer;MS+Business+Analytics+%7C+Building+useful+AI;Turning+data+into+decisions+%26+products" alt="typing headline"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=86f2ff&center=true&vCenter=true&width=1050&lines=Senior+Analytics+Engineer+%E2%80%A2+BI+Solutions;SQL+Expert+%E2%80%A2+Tableau+%E2%80%A2+Cloud+Data+Infrastructure;AWS+Glue+%E2%80%A2+Redshift+%E2%80%A2+Airflow+%E2%80%A2+Spark;Turning+Complex+Data+into+Scalable+Business+Insights" alt="typing headline"/>
 </p>
 
 <p align="center">
-  <a href="mailto:sreejaakuthota07@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/sreeja-akuthota/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
-  <img src="https://img.shields.io/badge/Role-AI%20Engineer-purple">
-  <img src="https://img.shields.io/badge/Location-TX%2C%20USA-lightgrey">
+  <a href="mailto:sreejaakuthota96@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail&color=86f2ff"></a>
+  <a href="https://www.linkedin.com/in/sreeja-akuthota/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&color=a084ff"></a>
+  <img src="https://img.shields.io/badge/Role-Senior%20Analytics%20Engineer-purple">
+  <img src="https://img.shields.io/badge/Location-Texas%2C%20USA-lightgrey">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/HuggingFace-ffd21e?logo=huggingface&logoColor=black">
-  <img src="https://img.shields.io/badge/LangChain-0891b2?logo=chainlink&logoColor=white">
-  <img src="https://img.shields.io/badge/Vector%20DB-FAISS%2FChroma-success">
-  <img src="https://img.shields.io/badge/Streamlit-Cloud-FF4B4B?logo=streamlit&logoColor=white">
-  <img src="https://img.shields.io/badge/Spaces-Hugging%20Face-yellow?logo=huggingface&logoColor=black">
-  <img src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS%20SageMaker-orange?logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/Azure%20ML-0078D4?logo=microsoftazure&logoColor=white">
-  <img src="https://img.shields.io/badge/GCP%20Vertex%20AI-4285F4?logo=googlecloud&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-Postgres%20%7C%20MySQL-blue?logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/BI-Tableau%20%7C%20Power%20BI-yellow?logo=tableau&logoColor=white">
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF8FAB&center=true&vCenter=true&width=900&lines=AI+Resume+%26+Cover+Letter+Generator;Gen+AI+PDF+Q%26A+Chatbot;AI+Review+Sentiment+Dashboard;NLP+%7C+RAG+%7C+LLM+Apps+in+Production" alt="animated headline" />
-</p>
-
-<details open>
-<summary><strong>Project 1 — AI Resume & Cover Letter Generator</strong> · <em>NLP</em></summary>
-
-**Live:** <a href="https://ai-resume-coverletter-generator.streamlit.app/">Streamlit Cloud</a>  
-**Key Skills:** Prompt engineering, LLM text generation  
-**Stack:** Python · Streamlit · FastAPI (optional API) · OpenAI/HF Inference API · Prompt Templates
-
-<p align="center">
-  <img src="dashboard.png" alt="AI resume generator" width="72%" style="border-radius:12px"/>
-  <br/><img src="pulse.gif" width="180" alt="pulse"/>
-</p>
-
-**Highlights**
-- One-click generation of tailored resume bullets and cover letters from a job description.
-- Guardrails & prompt-chains for tone, length, and ATS keyword coverage.
-- Export to PDF/Markdown; reusable prompt presets per role.
-
-
-<details open>
-<summary><strong>Project 2 — Gen AI PDF Q&A Chatbot</strong> · <em>RAG / LangChain</em></summary>
-
-**Live:** <a href="https://huggingface.co/spaces/Sreeja007/genai-pdf-qa-chatbot-groq">Hugging Face Spaces</a>  
-**Key Skills:** Embeddings, vector database, retrieval  
-**Stack:** Python · LangChain · FAISS/Chroma · Hugging Face · Streamlit/Gradio
-
-<p align="center">
-  <img src="GenAI_pdf_reader.png" alt="PDF Q&A" width="72%" style="border-radius:12px"/>
-  <br/><img src="pulse.gif" width="180" alt="pulse"/>
-</p>
-
-**Highlights**
-- Drop PDFs and chat with them using contextual retrieval.
-- Persistent vector store; sources with confidence scores.
-- Chunking + re-ranking; streaming responses w/ citations.
-
-```mermaid
-sequenceDiagram
-  participant U as User
-  participant UI as Web UI
-  participant VS as Vector DB
-  participant LLM as LLM
-  U->>UI: Ask question about PDF(s)
-  UI->>VS: Retrieve top-k chunks (similarity)
-  VS-->>UI: Relevant passages + scores
-  UI->>LLM: Compose w/ retrieved context
-  LLM-->>UI: Answer + inline citations
-```
-
-**Run locally**
-```bash
-pip install -r requirements.txt
-python -m scripts/ingest --path data/pdfs
-streamlit run apps/pdf_chat.py
-```
-</details>
-
----
-
-<details open>
-<summary><strong>Project 3 — AI Review Sentiment Dashboard</strong> · <em>Data + AI</em></summary>
-
-**Live:** <a href="https://ai-review-sentiment-dashboard.streamlit.app/">Streamlit Cloud (replace link)</a>  
-**Key Skills:** NLP analysis, data visualization  
-**Stack:** Python · Pandas · scikit-learn/HF · Streamlit · Plotly · Power BI/Tableau (optional)
-
-<p align="center">
-  <img src="Aireview.png" alt="Sentiment dashboard" width="72%" style="border-radius:12px"/>
-  <br/><img src="pulse.gif" width="180" alt="pulse"/>
-</p>
-
-**Highlights**
-- Ingest CSV/JSON reviews; classify sentiment and key themes.
-- Trend lines, word clouds, and cohort breakdowns.
-- Export annotated dataset and executive-ready charts.
-
-```mermaid
-flowchart TD
-  S[Review Data] --> C[Clean + Tokenize]
-  C --> M[Sentiment + Topic Models]
-  M --> V[Streamlit Viz + KPIs]
-  V --> X[CSV/PNG/PDF Exports]
-```
-
-**Run locally**
-```bash
-pip install -r requirements.txt
-streamlit run apps/sentiment_dashboard.py
-```
-</details>
-
----
-
-## ✨ Demos
-Put short demos them here.
-<p align="center">
-  <img src="dashboard.png" alt="Resume Generator Demo" width="85%"><br/>
-  <img src="GenAI_pdf_reader.png" alt="PDF Q&A Demo" width="85%"><br/>
-  <img src="Aireview.png" alt="Sentiment Dashboard Demo" width="85%">
+  <img src="https://img.shields.io/badge/SQL-Expert-00758F?logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?logo=apache-airflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white">
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white">
 </p>
 
 ---
 
 ## 👩🏽‍💻 About Me
-AI Engineer with 5+ years building ML/NLP products end‑to‑end—data → models → cloud deployment → dashboards. Experience spans healthcare and insurance, productionizing models on AWS SageMaker, Azure ML, and Vertex AI; building RAG workflows; and shipping BI dashboards that drive decisions. Highlights:
-- 22% NLP accuracy with HF Transformers on SageMaker.
-- 20% inference latency via Dockerized PyTorch + FastAPI.
-- 35% manual reporting with automated BI + anomaly detection.
-- 40% dataset accuracy through ML‑validated SQL pipelines.
+Senior Analytics Engineer with **5+ years of experience** designing scalable cloud-based analytics platforms and enterprise ETL pipelines. I specialize in transforming massive, complex datasets into actionable intelligence for **Healthcare and Financial** organizations.
 
-> Email: <a href="mailto:sreejaakuthota07@gmail.com">sreejaakuthota07@gmail.com</a> · 
-> LinkedIn: <a href="https://www.linkedin.com/in/sreeja-akuthota/">sreeja-akuthota</a>
+- 🏥 **Current:** BI Developer II @ **VCU Health Systems** (Optimizing Epic SlicerDicer & AWS workflows).
+- 💳 **Previous:** BI Engineer @ **Capital One** (Enterprise Cloud Data Engineering & Analytics).
+- ⚡ **Expertise:** SQL Optimization, Dimensional Data Modeling, PySpark, and Executive Dashboarding.
 
 ---
 
-## 🧱 Repo Layout (suggested)
-```
-.
-├── apps/
-│   ├── resume_app.py
-│   ├── pdf_chat.py
-│   └── sentiment_dashboard.py
-├── scripts/
-│   └── ingest.py
-├── requirements.txt
-├── assets/
-│   ├── demo_resume.gif
-│   ├── demo_pdfqa.gif
-│   └── demo_sentiment.gif
-└── README.md
-```
+## 🚀 Featured Analytics & Automation Projects
+
+<details open>
+<summary><strong>Project 1 — AI Resume & Analytics Automation</strong> · <em>Natural Language Processing</em></summary>
+
+**Live:** <a href="https://ai-resume-coverletter-generator.streamlit.app/">Streamlit App</a>  
+**Focus:** Automating high-volume text transformation using LLMs for recruitment analytics.  
+**Stack:** Python · OpenAI API · Streamlit · Prompt Engineering
+- Optimized text processing workflows for role-aware content generation.
+- Designed for scalable, data-driven recruitment automation.
+</details>
+
+<details open>
+<summary><strong>Project 2 — Gen AI PDF Knowledge Base (RAG)</strong> · <em>Data Engineering</em></summary>
+
+**Live:** <a href="https://huggingface.co/spaces/Sreeja007/genai-pdf-qa-chatbot-groq">HF Space</a>  
+**Focus:** Transforming unstructured document silos into a searchable analytics knowledge base.  
+**Stack:** LangChain · Vector DB · FAISS · Python · RAG
+- Designed a retrieval system that improves "time-to-insight" for enterprise documentation by 25%+.
+- Implemented audit trails and source attribution for rigorous data validation.
+</details>
+
+<details open>
+<summary><strong>Project 3 — Customer Review Sentiment Dashboard</strong> · <em>End-to-End BI</em></summary>
+
+**Live:** <a href="https://ai-review-sentiment-dashboard.streamlit.app/">Streamlit Demo</a>  
+**Focus:** Full-stack pipeline from unstructured text cleaning to executive dashboarding.  
+**Stack:** Python · Pandas · Plotly · NLP
+- Automated ingestion of customer feedback into interactive cohort trend reports.
+- Integrated predictive sentiment scoring to alert stakeholders of customer churn risks.
+</details>
 
 ---
 
-## ⚙️ Quick Setup
-```bash
-# 1) Create env
-python -m venv .venv && source .venv/bin/activate  # on Windows: .venv\Scripts\activate
-# 2) Install deps
-pip install -r requirements.txt
-# 3) (Optional) set API keys
-export OPENAI_API_KEY=...         # or HUGGINGFACEHUB_API_TOKEN=...
-export LANGCHAIN_TRACING_V2=true  # if you want observability
-```
+## 🛠 Tech Stack
 
-## 🧪 Test & Quality
-- Unit tests for chunking, retrieval, and prompt templates.
-- Smoke tests for APIs (`uvicorn apps:app --reload`).
-- Lint/format: `ruff`, `black`, `mypy` (optional).
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Programming** | **SQL (Expert)**, Python, PySpark, REST APIs |
+| **BI & Analytics** | **Tableau**, Power BI, Dashboard Development, Predictive Analytics, DAX |
+| **Data Engineering** | **ETL/ELT**, Airflow, Spark, dbt, Kafka, Dimensional Modeling, Data Validation |
+| **Cloud & DevOps** | **AWS (Redshift, Glue, Lambda, S3)**, Snowflake, CI/CD, Docker, Jenkins |
+| **Databases** | Amazon Redshift, PostgreSQL, MongoDB |
 
 ---
 
-## ☁️ Deploy
-- **Streamlit Cloud**: Push repo → New app → Select `apps/resume_app.py` or `apps/sentiment_dashboard.py`.
-- **Hugging Face Spaces**: Space → Gradio/Streamlit → set `requirements.txt` + `HF_TOKEN`.
-- **Containers**: `docker build -t ai-portfolio . && docker run -p 8501:8501 ai-portfolio`.
+## 📈 Professional Impact (By the Numbers)
+- 🏥 **VCU Health:** Processing **10M+ records daily** while reducing data latency by **30%**.
+- 💳 **Capital One:** Improved data availability by **30%** via optimized AWS Glue/Redshift workflows.
+- ⚡ **Efficiency:** Reduced manual reporting effort by **35%** across clinical operations.
+- 📉 **Quality:** Reduced reporting discrepancies by **25%** through automated validation frameworks.
 
 ---
 
+## 🎓 Education
+- **Master of Science in Business Analytics** | Clark University, MA, USA
+- **Bachelor of Technology in Electrical Engineering** | JNTUH, India
+
+---
 
 ## 🏆 Activity & Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SreejaAkuthota&show_icons=true&theme=radical&hide_border=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreejaAkuthota&layout=compact&theme=radical&hide_border=true" height="160" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=SreejaAkuthota&theme=radical&hide_border=true" />
-</p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SreejaAkuthota&theme=dracula&no-frame=true&margin-w=12&row=1" />
+  <a href="https://www.linkedin.com/in/sreeja-akuthota/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="SreejaAkuthota_Resume.pdf" download>
+    <img src="https://img.shields.io/badge/Download_Resume-PDF-green?style=for-the-badge&logo=adobeacrobatreader" />
+  </a>
 </p>
-
