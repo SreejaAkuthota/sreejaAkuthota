@@ -1,70 +1,85 @@
-<!-- 🌊 Professional Data Banner -->
+<!-- 🌊 Professional Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070d,100:86f2ff&height=140&section=header&text=Senior%20Analytics%20Engineer&fontSize=40&animation=twinkling&fontColor=ffffff" width="100%" alt="wave"/>
-</p>
-
-<h1 align="center">
-  ✨ <span style="color:#86f2ff;">Sreeja Akuthota</span> ✨
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=86f2ff&center=true&vCenter=true&width=1050&lines=Senior+Analytics+Engineer+%E2%80%A2+BI+Solutions;SQL+Expert+%E2%80%A2+Tableau+%E2%80%A2+Cloud+Data+Infrastructure;AWS+Glue+%E2%80%A2+Redshift+%E2%80%A2+Airflow+%E2%80%A2+Spark;Turning+Complex+Data+into+Scalable+Business+Insights" alt="typing headline"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070d,100:86f2ff&height=180&section=header&text=Sreeja%20Akuthota&fontSize=50&animation=twinkling&fontColor=ffffff" width="100%" alt="Header"/>
 </p>
 
 <p align="center">
-  <a href="mailto:sreejaakuthota96@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail&color=86f2ff"></a>
-  <a href="https://www.linkedin.com/in/sreeja-akuthota/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&color=a084ff"></a>
-  <img src="https://img.shields.io/badge/Location-Texas%2C%20USA-lightgrey">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=86f2ff&center=true&vCenter=true&width=1000&lines=Senior+Analytics+Engineer;Expert+in+SQL+%26+Cloud+BI;ETL+Architect+%E2%80%A2+Tableau+%E2%80%A2+AWS;Transforming+Data+into+Business+Intelligence" alt="Typing Headline"/>
+</p>
+
+<p align="center">
+  <a href="mailto:sreejaakuthota96@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sreeja-akuthota/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/SreejaAkuthota/SreejaAkuthota/blob/main/SreejaAkuthota_Resume.pdf?raw=true"><img src="https://img.shields.io/badge/Resume-00A4EF?style=for-the-badge&logo=microsoft-word&logoColor=white" /></a>
 </p>
 
 ---
 
-## 👩🏽‍💻 About Me
-Senior Analytics Engineer with **5+ years of experience** specializing in cloud-based analytics platforms and ETL pipelines for **Healthcare and Financial** organizations.
+### 🚀 Professional Snapshot
+Senior Analytics Engineer with **5+ years of experience** specializing in cloud-based analytics platforms and enterprise ETL pipelines for **Healthcare and Financial** leaders.
 
-- 🏥 **VCU Health:** BI Developer II (Processing 10M+ daily records).
-- 💳 **Capital One:** Former BI Engineer (AWS Glue, Redshift, Spark).
-- ⚡ **Expertise:** SQL Optimization, Dimensional Modeling, Tableau, and AWS Data Engineering.
-
----
-
-## 🚀 Featured Analytics Projects
-
-<details open>
-<summary><strong>Project 1 — AI Resume & Automation</strong></summary>
-Automating text transformations and resume optimization using LLMs for recruitment analytics.
-</details>
-
-<details open>
-<summary><strong>Project 2 — Gen AI PDF Knowledge Base (RAG)</strong></summary>
-RAG system transforming enterprise document silos into searchable analytics data.
-</details>
-
-<details open>
-<summary><strong>Project 3 — Review Sentiment Dashboard</strong></summary>
-End-to-end pipeline and dashboard for customer sentiment and cohort trend reports.
-</details>
+- 🏥 **VCU Health:** BI Developer II | Optimizing Epic SlicerDicer & AWS workflows (10M+ daily records).
+- 💳 **Capital One:** Former BI Engineer | Cloud Data Engineering (AWS Glue, Redshift, Spark).
+- ⚡ **Specialties:** SQL Optimization, Dimensional Modeling, Tableau, and Scalable Data Infrastructure.
 
 ---
 
-## 🛠 Tech Stack
-- **Languages:** SQL (Expert), Python, PySpark
-- **BI Tools:** Tableau, Power BI, DAX
-- **Data Eng:** ETL, Airflow, Spark, dbt, Kafka, Dimensional Modeling
-- **Cloud:** AWS (Redshift, Glue, Lambda, S3), Snowflake
+### 🛠️ Technical Ecosystem
+
+| **Data Engineering** | **Cloud & DBs** | **Analytics & BI** |
+| :--- | :--- | :--- |
+| <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white"/> | <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Redshift-86f2ff?style=flat&logo=amazon-redshift&logoColor=black"/> | <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black"/> |
+| <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white"/> <img src="https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white"/> | <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white"/> <img src="https://img.shields.io/badge/Postgres-336791?style=flat&logo=postgresql&logoColor=white"/> | <img src="https://img.shields.io/badge/SQL-Expert-blue?style=flat&logo=databricks&logoColor=white"/> <img src="https://img.shields.io/badge/KPI-Reporting-gold"/> |
 
 ---
 
-## 📈 Impact Stats
-- **10M+** records processed daily at VCU Health.
-- **35%** reduction in manual reporting effort.
-- **30%** improvement in data availability and latency.
-- **25%** reduction in reporting discrepancies.
+### 📊 Featured Data Projects
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/Automation-Project-86f2ff?style=for-the-badge" /><br/>
+      <b>AI Resume & Automation</b><br/>
+      Automating text transformations using LLMs for recruitment analytics.
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/Data_Eng-Project-a084ff?style=for-the-badge" /><br/>
+      <b>Gen AI Knowledge Base</b><br/>
+      RAG system transforming enterprise silos into searchable insights.
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/BI_Viz-Project-ffd166?style=for-the-badge" /><br/>
+      <b>Sentiment Dashboard</b><br/>
+      Full-stack pipeline for customer cohort trend reports.
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 Business Impact Metrics
+- 🚀 **10M+** records processed daily at VCU Health.
+- 📉 **35%** reduction in manual reporting effort via automation.
+- ⏱️ **30%** improvement in data availability and latency.
+- ✅ **25%** reduction in reporting discrepancies.
+
+---
+
+### 🏆 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SreejaAkuthota&show_icons=true&theme=transparent&hide_border=true&title_color=86f2ff&text_color=ffffff&icon_color=a084ff" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreejaAkuthota&layout=compact&theme=transparent&hide_border=true&title_color=86f2ff&text_color=ffffff" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SreejaAkuthota&theme=dracula&no-frame=true&margin-w=15" width="100%"/>
+</p>
 
 ---
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/SreejaAkuthota/SreejaAkuthota/main/SreejaAkuthota_Resume.pdf" height="1" width="1" />
   <a href="https://github.com/SreejaAkuthota/SreejaAkuthota/blob/main/SreejaAkuthota_Resume.pdf?raw=true">
-    <img src="https://img.shields.io/badge/Download_Resume-PDF-green?style=for-the-badge&logo=adobeacrobatreader" />
+    <img src="https://img.shields.io/badge/Download_My_Resume-00A4EF?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
   </a>
 </p>
